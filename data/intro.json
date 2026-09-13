@@ -1,0 +1,26 @@
+{
+  "persona_default": {
+    "me": "Halo! Aku Si Bola ceria. Senang sekali bisa menyambutmu di profilku!",
+    "skill": "Penasaran apa saja yang bisa aku lakukan? Yuk cek keahlianku!",
+    "mini": "Mau istirahat sejenak? Aku punya eksperimen minigame seru lho.",
+    "bug": "Ada sesuatu yang aneh atau rusak? Bisikkan padaku di sini.",
+    "project": "Ini dia deretan quest dan proyek yang pernah aku kerjakan!",
+    "dev": "Mau tahu filosofi di balik layar dan bagaimana aku dibangun?"
+  },
+  "persona_cyber": {
+    "me": "[SYSTEM: ONLINE] Identitas dikonfirmasi. Akses data personal dibuka.",
+    "skill": "[SCANNING] Memuat daftar kapabilitas teknis dan stack keamanan...",
+    "mini": "[SIMULATION] Menjalankan lingkungan Sandbox 2D untuk pengujian.",
+    "bug": "[VULN_REPORT] Temukan celah atau anomaly? Segera transmisikan!",
+    "project": "[DATABASE] Mengakses repositori proyek dan arsitektur sistem.",
+    "dev": "[LOGS] Menampilkan catatan debug dan prinsip pengembangan."
+  },
+  "persona_cute": {
+    "me": "Kyaaa~! Makasih udah mampir ke profil aku! Imut kan? ✨",
+    "skill": "Eeeh? Mau liat skill apa hari ini? Semuanya seru-seru lho! 🌸",
+    "mini": "Ayo main bareng! Minigame ini imut banget kayak aku~ 🎮",
+    "bug": "Uww, ada bug yang mengganggu ya? Boleh tolong kasih tahu? 🥺",
+    "project": "Tadaa~! Ini koleksi karya-karya impian yang udah dibuat! 🚀",
+    "dev": "Meskipun aku imut, pembuatku serius banget pas koding lho! 😤"
+  }
+}

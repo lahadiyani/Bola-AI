@@ -1,0 +1,44 @@
+{
+  "me": {
+    "label": "Me",
+    "icon": "🤖",
+    "pos": { "top": "18%", "left": "18%" },
+    "title": "Halo! Aku Si Bola 🤖",
+    "details": "<div class=\"detail-content\"><p>Full-Stack Developer & Security Researcher.</p></div>"
+  },
+  "skill": {
+    "label": "Skills",
+    "icon": "⚡",
+    "pos": { "top": "18%", "right": "18%" },
+    "title": "Skillset ⚡",
+    "details": "<div class=\"detail-content\"><h4>Skills</h4><p>Three.js, WebGL, UI/UX, Security Audit</p></div>"
+  },
+  "mini": {
+    "label": "Minigame",
+    "icon": "🎮",
+    "pos": { "top": "50%", "left": "8%", "transform": "translateY(-50%)" },
+    "title": "Minigame 🎮",
+    "details": "<div class=\"detail-content\"><p>Game 2D berbasis canvas sedang dalam tahap eksperimen Beta.</p></div>"
+  },
+  "bug": {
+    "label": "Bug Report",
+    "icon": "🐛",
+    "pos": { "top": "50%", "right": "8%", "transform": "translateY(-50%)" },
+    "title": "Bug Report 🐛",
+    "details": "<div class=\"detail-content\"><p>Laporkan temuan bug untuk analisis dan perbaikan teknis.</p></div>"
+  },
+  "project": {
+    "label": "Projects",
+    "icon": "🚀",
+    "pos": { "bottom": "18%", "left": "18%" },
+    "title": "Quests 🚀",
+    "details": "<div class=\"detail-content\"><p>Pluto Shop, Task Hero, dan eksperimen WebGL lainnya.</p></div>"
+  },
+  "dev": {
+    "label": "My Dev",
+    "icon": "👾",
+    "pos": { "bottom": "18%", "right": "18%" },
+    "title": "My Dev 👾",
+    "details": "<div class=\"detail-content\"><p>Developer yang menyukai tantangan teknis dan first-principles thinking.</p></div>"
+  }
+}

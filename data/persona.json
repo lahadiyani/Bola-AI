@@ -1,0 +1,34 @@
+[
+  {
+    "id": "persona_default",
+    "name": "Original Ball",
+    "description": "Bentuk asli yang ramah dan energetic.",
+    "config": {
+      "id": "persona_default",
+      "color": "#FF8E8E",
+      "fogColor": "#FFF9F0",
+      "skinId": "skin_cool_pixel"
+    }
+  },
+  {
+    "id": "persona_cyber",
+    "name": "Cyber Sentinel",
+    "description": "Persona keamanan yang berfokus pada pentesting & audit.",
+    "config": {
+      "id": "persona_cyber",
+      "color": "#00FFCC",
+      "materialType": "wireframe_glow",
+      "fogColor": "#0D1117"
+    }
+  },
+  {
+    "id": "persona_cute",
+    "name": "Pastel Bubble",
+    "description": "Vibe lembut dengan estetika WebGL yang menyenangkan.",
+    "config": {
+      "id": "persona_cute",
+      "color": "#FFB7B2",
+      "fogColor": "#FCE4EC"
+    }
+  }
+]

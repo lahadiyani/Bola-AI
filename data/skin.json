@@ -1,0 +1,43 @@
+[
+  {
+    "id": "skin_none",
+    "name": "No Accessories",
+    "description": "Tanpa aksesoris tambahan.",
+    "attachments": []
+  },
+  {
+    "id": "skin_cool_pixel",
+    "name": "Pixel Cap & Glasses",
+    "description": "Topi baseball dan kacamata pixel retro.",
+    "attachments": [
+      {
+        "name": "cap",
+        "modelPath": "assets/skins/Accessories/Baseball.glb",
+        "position": [0, 2.2, 0],
+        "rotation": [0, 0, 0],
+        "scale": [1.5, 1.5, 1.5]
+      },
+      {
+        "name": "glasses",
+        "modelPath": "assets/skins/Accessories/Pixel Glasses.glb",
+        "position": [0, 0.4, 2.2],
+        "rotation": [0, 0, 0],
+        "scale": [1.2, 1.2, 1.2]
+      }
+    ]
+  },
+  {
+    "id": "skin_jacket",
+    "name": "Street Jacket",
+    "description": "Jaket casual melingkar di area badan.",
+    "attachments": [
+      {
+        "name": "jacket",
+        "modelPath": "assets/skins/Clothes/Jacket.glb",
+        "position": [0, -0.8, 0],
+        "rotation": [0, 0, 0],
+        "scale": [1.8, 1.8, 1.8]
+      }
+    ]
+  }
+]
