@@ -7,13 +7,13 @@
     "project": "Ini dia deretan quest dan proyek yang pernah aku kerjakan!",
     "dev": "Mau tahu filosofi di balik layar dan bagaimana aku dibangun?"
   },
-  "persona_cyber": {
-    "me": "[SYSTEM: ONLINE] Identitas dikonfirmasi. Akses data personal dibuka.",
-    "skill": "[SCANNING] Memuat daftar kapabilitas teknis dan stack keamanan...",
-    "mini": "[SIMULATION] Menjalankan lingkungan Sandbox 2D untuk pengujian.",
-    "bug": "[VULN_REPORT] Temukan celah atau anomaly? Segera transmisikan!",
-    "project": "[DATABASE] Mengakses repositori proyek dan arsitektur sistem.",
-    "dev": "[LOGS] Menampilkan catatan debug dan prinsip pengembangan."
+  "persona_dark": {
+    "me": "Selamat datang di sisi gelapku. misterius dan penuh teka-teki.",
+    "skill": "Ingin tahu kemampuan tersembunyi yang aku miliki? Ayo kita lihat.",
+    "mini": "Siap untuk tantangan? Minigame ini akan menguji keberanianmu.",
+    "bug": "Ada bug yang mengganggu? Laporkan padaku agar bisa diperbaiki.",
+    "project": "Ini adalah koleksi proyek yang telah aku kerjakan dengan dedikasi.",
+    "dev": "Di balik kegelapan, ada proses pengembangan yang serius dan mendalam."
   },
   "persona_cute": {
     "me": "Kyaaa~! Makasih udah mampir ke profil aku! Imut kan? ✨",

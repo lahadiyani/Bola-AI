@@ -1,7 +1,7 @@
 [
   {
     "id": "persona_default",
-    "name": "Original Ball",
+    "name": "Bola",
     "description": "Bentuk asli yang ramah dan energetic.",
     "config": {
       "id": "persona_default",
@@ -11,20 +11,19 @@
     }
   },
   {
-    "id": "persona_cyber",
-    "name": "Cyber Sentinel",
-    "description": "Persona keamanan yang berfokus pada pentesting & audit.",
+    "id": "persona_dark",
+    "name": "Bolo",
+    "description": "Vibe gelap yang misterius.",
     "config": {
-      "id": "persona_cyber",
-      "color": "#00FFCC",
-      "materialType": "wireframe_glow",
-      "fogColor": "#0D1117"
+      "id": "persona_dark",
+      "color": "#4A4A4A",
+      "fogColor": "#1C1C1C"
     }
   },
   {
     "id": "persona_cute",
-    "name": "Pastel Bubble",
-    "description": "Vibe lembut dengan estetika WebGL yang menyenangkan.",
+    "name": "Bolu",
+    "description": "Vibe lembut yang menyenangkan.",
     "config": {
       "id": "persona_cute",
       "color": "#FFB7B2",
